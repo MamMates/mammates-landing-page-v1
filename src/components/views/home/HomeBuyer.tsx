@@ -31,7 +31,7 @@ const HomeBuyer = () => {
                 );
               }}
             >
-              Download Seller Application
+              Download Buyer Application
             </Button>
           </Box>
         </Stack>
